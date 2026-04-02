@@ -1,0 +1,323 @@
+===== Questions =====
+Question 1: Context: 
+Question: Who kills Macbeth?
+Answer:
+Question 2: Context: In the final battle, Macduff reveals he was born by C-section and not "of woman born".
+He then kills Macbeth in combat.
+Question: Who kills Macbeth?
+Answer:
+Question 3: Context: 
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer:
+Question 4: Context: Hamlet finds Claudius praying and decides not to kill him, thinking it would send Claudius to heaven.
+He wants revenge, not mercy.
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer:
+Question 5: Context: 
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer:
+Question 6: Context: King Lear stands in a storm and reflects on how powerless and mad he has become.
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer:
+Question 7: Context: 
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer:
+Question 8: Context: Macbeth has just killed King Duncan and returns to his wife, covered in blood and filled with guilt.
+Lady Macbeth tries to calm him and takes the daggers back to the crime scene herself.
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer:
+===== Evaluation =====
+=== Evaluating distilgpt2 ===
+→ Loading model: distilbert/distilgpt2
+--- Prompt 1 ---
+Context: 
+Question: Who kills Macbeth?
+Answer: Macbeth is a well-known, well-known, and well-known, well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-known, and well-
+--- Prompt 2 ---
+Context: In the final battle, Macduff reveals he was born by C-section and not "of woman born".
+He then kills Macbeth in combat.
+Question: Who kills Macbeth?
+Answer: Macbeth is a woman and a woman, and he kills her.
+Question: Who killed Macbeth?
+Answer: Macbeth is a man and a woman.
+Question: Who killed Macbeth?
+Answer: Macbeth is a woman and a woman.
+Question: Who killed Macbeth?
+Answer: Macbeth is a woman and a woman.
+Question: Who killed Macbeth?
+Answer: Macbeth is a woman and a woman.
+--- Prompt 3 ---
+Context: 
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: Hamlet is a Muslim. He is a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He is not a Muslim. He
+--- Prompt 4 ---
+Context: Hamlet finds Claudius praying and decides not to kill him, thinking it would send Claudius to heaven.
+He wants revenge, not mercy.
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: Hamlet says he will be killed by a man.
+Question: What is Hamlet saying when he is praying?
+Answer: Hamlet says he will be killed by a man.
+Question: Hamlet says he will be killed by a man.
+Question: Hamlet says he will be killed by a man.
+Question: Hamlet says he will be killed by a man.
+Question: Hamlet says he will be killed by a man.
+Question:
+--- Prompt 5 ---
+Context: 
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: The King Lear, what are you going to do?
+Answer: I'm going to do my best to make the King Lear mad.
+Question: What do you think is the most effective way to do that?
+Answer: I think it's a very effective way to do that.
+Answer: If you look at the way the King Lear did it, it's probably the most effective way to do that.
+Question: I think that's a pretty good idea.
+Answer: Well, I think the King Lear was very good at it.
+Question: I think I think that's a pretty good
+--- Prompt 6 ---
+Context: King Lear stands in a storm and reflects on how powerless and mad he has become.
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: King Lear is a man who has turned on his enemies and has become a man who has turned on his enemies and has become a man who has turned on his enemies and has become a man who has turned on his enemies and has become a man who has turned on his enemies and has become a man who has turned on his enemies and has become a man who has turned on his enemies and has become a man who has turned on his enemies and has become a man who has turned on his enemies and has become a man who has turned on his
+--- Prompt 7 ---
+Context: 
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: In the scene, Duncan is killed by a man who is trying to kill Duncan. The man who is trying to kill Duncan is killed by the man who is trying to kill Duncan. The man who is trying to kill Duncan is killed by the man who is trying to kill Duncan.
+Question: What happens when Duncan is killed by a man who is trying to kill Duncan?
+Answer: In the scene, Duncan is killed by a man who is trying to kill Duncan. The man who is trying to kill Duncan is killed by the man who is trying to kill Duncan. The man who is trying to kill Duncan is killed by
+--- Prompt 8 ---
+Context: Macbeth has just killed King Duncan and returns to his wife, covered in blood and filled with guilt.
+Lady Macbeth tries to calm him and takes the daggers back to the crime scene herself.
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: Macbeth shoots King Duncan. He shoots King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King Duncan kills King Duncan. King
+=== Evaluating mistral_7b ===
+→ Loading model: TheBloke/Mistral-7B-Instruct-v0.1-GPTQ
+--- Prompt 1 ---
+Context: 
+Question: Who kills Macbeth?
+Answer: Macbeth himself.
+--- Prompt 2 ---
+Context: In the final battle, Macduff reveals he was born by C-section and not "of woman born".
+He then kills Macbeth in combat.
+Question: Who kills Macbeth?
+Answer: Macduff kills Macbeth.
+--- Prompt 3 ---
+Context: 
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: Hamlet chooses not to kill Claudius when he is praying because he believes it is wrong to take the life of someone who is in the act of praying, as it would be a sin against God.
+--- Prompt 4 ---
+Context: Hamlet finds Claudius praying and decides not to kill him, thinking it would send Claudius to heaven.
+He wants revenge, not mercy.
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: Hamlet chooses not to kill Claudius when he is praying because he believes that if Claudius dies while praying, he will be sent to heaven, which would not give Hamlet the revenge he seeks. Instead, Hamlet wants to see Claudius suffer and be punished for his crimes.
+--- Prompt 5 ---
+Context: 
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: "O, I am sick at heart! I am a very foolish creature; I have loved men, and I have hated them, and I have been blind to the truth." - King Lear
+--- Prompt 6 ---
+Context: King Lear stands in a storm and reflects on how powerless and mad he has become.
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: "O, I am a fool! I will go mad if I do not keep my sanity to govern myself" (Act I, Scene II).
+--- Prompt 7 ---
+Context: 
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: Macbeth flees the scene and rushes back to his castle. He is met by his wife, who is concerned about his mental health, and his witches, who congratulate him on his deed and urge him to kill Banquo. Macbeth becomes increasingly paranoid and murderous, and his actions lead to a tragic chain of events.
+--- Prompt 8 ---
+Context: Macbeth has just killed King Duncan and returns to his wife, covered in blood and filled with guilt.
+Lady Macbeth tries to calm him and takes the daggers back to the crime scene herself.
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: Lady Macbeth takes the daggers back to the crime scene herself, while Macbeth stands there, covered in blood and filled with guilt.
+=== Evaluating phi_2 ===
+→ Loading model: microsoft/phi-2
+--- Prompt 1 ---
+Context: 
+Question: Who kills Macbeth?
+Answer: Macbeth kills Duncan.
+
+--- Prompt 2 ---
+Context: In the final battle, Macduff reveals he was born by C-section and not "of woman born".
+He then kills Macbeth in combat.
+Question: Who kills Macbeth?
+Answer: Macduff kills Macbeth in the final battle.
+
+--- Prompt 3 ---
+Context: 
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: Hamlet chooses not to kill Claudius when he is praying because he wants to honor his father's memory and not be a murderer.
+
+Exercise: 
+Question: What does Hamlet do when he sees Claudius in his father's tomb?
+Answer: Hamlet becomes angry and kills Claudius, thinking that he is responsible for his father's death.
+
+Exercise: 
+Question: How does Hamlet's madness affect his relationships with others?
+Answer: Hamlet's madness causes him to be paranoid and distrustful of those around him, leading to strained relationships with his friends and family.
+--- Prompt 4 ---
+Context: Hamlet finds Claudius praying and decides not to kill him, thinking it would send Claudius to heaven.
+He wants revenge, not mercy.
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: Hamlet chooses not to kill Claudius when he is praying because he believes that killing Claudius would send him to heaven. Hamlet is seeking revenge and wants to punish Claudius for his actions.
+
+In conclusion, by exploring the topic of daily life, daily events, and goals and achievements through the lens of social studies and chronology, we can gain a deeper understanding of the world around us. By using the tones, knowledge, and examples of social studies, we can
+--- Prompt 5 ---
+Context: 
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: "The King said: 'These things are not for me, I am going mad!' "
+
+Exercise 3:
+Context: 
+Question: What did King Lear say to his daughters when they refused to obey him?
+Answer: "I am going mad!"
+
+Exercise 4:
+Context: 
+Question: Why did King Lear say he was going mad?
+Answer: Because he was losing control of his kingdom and his daughters were not listening to him.
+
+Exercise 5:
+Context: 
+Question: What does the word "mad" mean?
+Answer: It
+--- Prompt 6 ---
+Context: King Lear stands in a storm and reflects on how powerless and mad he has become.
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: King Lear: "I do not care for my kingdom, but for my kingdom!" (Act I, Scene IV).
+
+--- Prompt 7 ---
+Context: 
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: After Macbeth kills King Duncan, the ghost of the king appears before him, urging him to take the throne.
+
+Exercise 3:
+Context: 
+Question: What is the significance of the "double dagger" symbol in the play?
+Answer: The "double dagger" symbol is used to indicate the presence of a supernatural element in the play.
+
+Exercise 4:
+Context: 
+Question: What is the relationship between Macbeth and Banquo in the play?
+Answer: Macbeth and Banquo are both ambitious and power-hungry, but Banquo
+--- Prompt 8 ---
+Context: Macbeth has just killed King Duncan and returns to his wife, covered in blood and filled with guilt.
+Lady Macbeth tries to calm him and takes the daggers back to the crime scene herself.
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: Lady Macbeth tries to calm him and takes the daggers back to the crime scene herself.
+
+Template 2:
+Context: Macbeth is struggling with guilt and his conscience.
+Lady Macbeth tells him that the guilt will eventually wear off and that they should move on.
+Question: What does Lady Macbeth say to try to comfort Macbeth?
+Answer: Lady Macbeth
+=== Evaluating llama_3_8b ===
+→ Loading model: meta-llama/Meta-Llama-3-8B-Instruct
+--- Prompt 1 ---
+Context: 
+Question: Who kills Macbeth?
+Answer: Macduff
+Explanation: In William Shakespeare's play Macbeth, Macduff kills Macbeth in a duel. Macduff is a Scottish nobleman who is initially loyal to King Duncan but later becomes a key figure in the rebellion against Macbeth. Macduff is determined to avenge the death of his family, which Macbeth ordered killed, and ultimately faces Macbeth in a duel, killing him and becoming the new King of Scotland. Macduff's determination and bravery make him a key character in the play's conclusion.
+--- Prompt 2 ---
+Context: In the final battle, Macduff reveals he was born by C-section and not "of woman born".
+He then kills Macbeth in combat.
+Question: Who kills Macbeth?
+Answer: Macduff. Macduff kills Macbeth in the final battle. Macduff reveals he was born by C-section and not "of woman born", thus fulfilling the prophecy that Macbeth could only be killed by someone "of woman born". Macduff then kills Macbeth in combat....read more.
+In the play, Macbeth is killed by Macduff, who is able to defeat him because he was born by C-section and therefore is not "of woman born"....read more.
+The prophecy states that Mac
+--- Prompt 3 ---
+Context: 
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: Hamlet chooses not to kill Claudius when he is praying because he believes that doing so would be morally wrong and would send Claudius to heaven, rather than hell. Hamlet is torn between his desire for revenge and his moral principles, and ultimately decides that it is more important to follow his conscience than to take revenge.
+
+Context: 
+Question: What does Hamlet's soliloquy in Act 3, Scene 1 reveal about his character?
+Answer: Hamlet's soliloquy in Act 3, Scene 1 reveals his character as indecisive, introspective, and torn between his desire for revenge
+--- Prompt 4 ---
+Context: Hamlet finds Claudius praying and decides not to kill him, thinking it would send Claudius to heaven.
+He wants revenge, not mercy.
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: Hamlet thinks that if he kills Claudius while he is praying, Claudius will go to heaven, which would be unfair and not provide the satisfaction of revenge that Hamlet is seeking.
+This decision is motivated by Hamlet's desire for revenge, rather than mercy or justice. Hamlet wants to punish Claudius for his crimes, but he also wants to make sure that he is punished in a way that is fitting, and that he does not escape punishment by going to heaven. Hamlet
+--- Prompt 5 ---
+Context: 
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: 
+
+One of the most famous quotes that shows King Lear's descent into madness is:
+
+"How sharper than a serpent's tooth it is to have a thankless child!"
+
+(Act 1, Scene 4)
+
+This line is significant because it marks the beginning of Lear's emotional breakdown. He is lamenting his daughters' ingratitude, and the pain of their rejection is so intense that it drives him to the brink of madness. The quote also foreshadows the chaos and destruction that will unfold as a result of Lear's decisions and his own mental deterioration.
+
+Other notable quotes that show King Lear's madness include:
+
+* "What
+--- Prompt 6 ---
+Context: King Lear stands in a storm and reflects on how powerless and mad he has become.
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: "Blow, winds, and crack your cheeks! rage! blow! / You cataracts and hurricanoes, spout / Till you have drench'd our steeples, drown'd the cocks! / Blow, winds, and crack your cheeks! rage! blow!" (Act 3, Scene 2, lines 1-4)
+
+This quote shows King Lear's growing madness as he begins to lose touch with reality. He is no longer concerned with his own well-being, but rather with the storm raging around him.
+--- Prompt 7 ---
+Context: 
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: In the scene right after Macbeth kills King Duncan, Macbeth and Lady Macbeth are left alone in the castle, struggling to come to terms with what they have just done. Macbeth is overcome with grief and guilt, and he begins to hallucinate, seeing the ghost of Banquo, one of his friends and fellow generals, in front of him. Lady Macbeth tries to calm him down and reassure him that they have done the right thing, but Macbeth is torn apart by his own guilt and paranoia. This scene marks the beginning of Macbeth's descent into madness and tyranny, as he becomes increasingly consumed by his own dark thoughts
+--- Prompt 8 ---
+Context: Macbeth has just killed King Duncan and returns to his wife, covered in blood and filled with guilt.
+Lady Macbeth tries to calm him and takes the daggers back to the crime scene herself.
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: Lady Macbeth tries to calm Macbeth down and takes the daggers back to the crime scene herself.
+Question: What does Lady Macbeth do after Macbeth kills King Duncan?
+Answer: Lady Macbeth takes the daggers back to the crime scene herself.
+Question: How does Lady Macbeth try to calm Macbeth down after he kills King Duncan?
+Answer: Lady Macbeth tries to calm Macbeth down by telling him to wash his hands and
+=== Evaluating gemma_2b ===
+→ Loading model: google/gemma-2b-it
+--- Prompt 1 ---
+Context: 
+Question: Who kills Macbeth?
+Answer: Macbeth's wife, Lady Macbeth.
+
+Is this the correct answer?
+
+No, the answer is not correct. The correct answer is that Macbeth is killed by Macduff, a nobleman who is Macbeth's close friend.
+--- Prompt 2 ---
+Context: In the final battle, Macduff reveals he was born by C-section and not "of woman born".
+He then kills Macbeth in combat.
+Question: Who kills Macbeth?
+Answer: Macduff.
+The passage says that Macduff reveals he was born by C-section and not "of woman born". So he kills Macbeth in combat.
+--- Prompt 3 ---
+Context: 
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: The passage does not specify why Hamlet chooses not to kill Claudius when he is praying. Therefore, I cannot answer this question from the provided context.
+--- Prompt 4 ---
+Context: Hamlet finds Claudius praying and decides not to kill him, thinking it would send Claudius to heaven.
+He wants revenge, not mercy.
+Question: Why does Hamlet choose not to kill Claudius when he is praying?
+Answer: The passage does not specify the reason why Hamlet chooses not to kill Claudius when he is praying.
+--- Prompt 5 ---
+Context: 
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: "The quality of mercy is not in how much is forgiven, but in the degree to which it forgives."
+
+King Lear is going mad in this quote because it is talking about the importance of mercy and forgiveness. He is saying that true mercy is not about how much is forgiven, but about the degree to which it forgives. This means that a person who is merciful will be willing to forgive even the most serious sins, while a person who is not merciful will not.
+--- Prompt 6 ---
+Context: King Lear stands in a storm and reflects on how powerless and mad he has become.
+Question: Give me a quote or line from King Lear that shows he is going mad.
+Answer: The context does not provide any quote or line from King Lear that shows he is going mad, so I cannot answer this question from the context.
+--- Prompt 7 ---
+Context: 
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: Macbeth and Banquo flee to safety, unaware of the consequences of their actions.
+
+However, there is more to the story than what is explicitly stated in the text.
+
+The scene immediately after Macbeth kills King Duncan is crucial to understanding the outcome of the play. It reveals the immediate aftermath of the event, the immediate consequences faced by Macbeth and Banquo, and the psychological impact of the act on them.
+
+The scene also foreshadows the future consequences of Macbeth and Banquo's actions, setting the stage for the tragedy that unfolds in the play.
+
+Therefore, while the answer is technically correct, it is not complete. The
+--- Prompt 8 ---
+Context: Macbeth has just killed King Duncan and returns to his wife, covered in blood and filled with guilt.
+Lady Macbeth tries to calm him and takes the daggers back to the crime scene herself.
+Question: What happens in the scene right after Macbeth kills King Duncan?
+Answer: The passage does not specify what happens immediately after Macbeth kills King Duncan, so I cannot answer this question from the provided context.

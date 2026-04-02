@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+shakespeare_model/
+shakespeare_model_final/
+
+# Processed data (large arrow files)
+shakespeare_processed/
+
+# Weights & Biases
+wandb/
+
+# Environment
+.env
+venv/
